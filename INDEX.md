@@ -1,5 +1,5 @@
 ---
-title: "Optimization"
+title: "Optimize"
 permalink: /
 layout: default
 ---
