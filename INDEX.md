@@ -1,3 +1,9 @@
+---
+title: "Optimization"
+permalink: /
+layout: default
+---
+
 # Windows Optimization ✅
 This website was created by [DevSentinel](https://github.com/DevSentinel)
 ## Introduction
