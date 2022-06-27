@@ -12,7 +12,7 @@ This guide will give you resoures to additional useful tutorials for Windows Mac
 
 **Note:** We do not own any of the guides that are on this website, all credits go to the respectful owners.
 
-## Calypto's Guide
+## Recommended Guide
 
 My Personal Favorite guide for Windows Machine Optimization to this day would be XanderBaatz's -  [Comprehensive Guide | "How to Optimize Windows 10 for Gaming and Productivity".](https://www.youtube.com/watch?v=pJTCwSX9Ym8&t) In the 40 minute video, there are 5 different sequences. The sequences are: Prerequisites, Settings, Control Panel, Debloat & Stabilize, and last but not least - Finalization.  An excellent comprehensive guide with step by step instructions to tweaking the windows OS for better performance.
 
